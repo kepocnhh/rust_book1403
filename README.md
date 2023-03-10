@@ -5,3 +5,9 @@ Run app
 ```
 $ cargo run -p app
 ```
+
+---
+Test slices
+```
+$ cargo test -p slices
+```
